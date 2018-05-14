@@ -1,5 +1,4 @@
 # Introduction
 
-"# diaryBook"
-"# 说点啥好呢？" 
-### 随便吧
+[https://wcxing.github.io/diaryBook/](https://wcxing.github.io/diaryBook/)
+##### 工作日志
